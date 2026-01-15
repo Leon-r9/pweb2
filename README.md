@@ -258,7 +258,7 @@ Este projeto é de código aberto e está disponível sob a licença ISC.
 
 ## 👨‍💻 Autor
 
-Desenvolvido como projeto de demonstração de habilidades full stack.
+Emanuel Léon Moreira de Oliveira Ribeiro
 
 ---
 
